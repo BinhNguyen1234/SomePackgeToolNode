@@ -1,7 +1,7 @@
 # SomePackgeToolNode
 Some package and tool i found, probaly it will be useful
 
-## 1. depcheck: Tool for checking some unuse in yourapplication
+## 1. depcheck: Tool for checking some unuse package/libary in yourapplication
 
 - To install:
         ``` npm i depcheck ```
