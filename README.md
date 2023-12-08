@@ -15,7 +15,7 @@ Some package and tool i found, probaly it will be useful
         npm i -g npm-check-updates
         ncu -u
         npm install
-Or using npx (so you don't have to install a global package):
+- Or using npx (so you don't have to install a global package):
 
         npx npm-check-updates -u
         npm install
